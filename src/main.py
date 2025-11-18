@@ -1,3 +1,3 @@
-print("Message from branch B")
+print("Resolved message after conflict between A and B")
 
 
